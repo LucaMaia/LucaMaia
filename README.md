@@ -58,16 +58,6 @@
 <br/>
 
 
-<a href="https://github.com/LucaMaia">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=LucaMaia&theme=dracula&show_icons=true" />
-</a>
-
-
-
-
-<br/>
-
-
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3>
 
