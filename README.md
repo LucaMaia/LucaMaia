@@ -21,8 +21,8 @@
 
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![NODEJS](https://img.shields.io/badge/NodeJS-333333?style=flat&logo=NODEJS)
+![JAVASCRIPT](https://img.shields.io/badge/Javascript-333333?style=flat&logo=JAVASCRIPT)
 ![REACT](https://img.shields.io/badge/react-333333?style=flat&logo=REACT)
 
 
