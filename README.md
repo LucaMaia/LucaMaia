@@ -3,7 +3,7 @@
 
 
 
-<h3> :man: &nbsp;Meu nome e walisson,
+<h3> :man: &nbsp;Meu nome e Luca,
 </h3>
 
 
@@ -11,7 +11,7 @@
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Análise e Desenvolvimento de Sistemas ** na <a href="https://estacio.br/">ESTÁCIO
 - 💼 &nbsp; Trabalhando como **ESTAGIÁRIO /ARQUITETURA DE SOFTWARE** no <a href="https://www.gov.br/mec/pt-br">MINISTÉRIO DA EDUCAÇÃO</a>
-- 🌱 &nbsp; Aprendendo mais sobre **JavaScript,React**
+- 🌱 &nbsp; Aprendendo mais sobre **JavaScript,React JS,Node JS**
 
 
 
@@ -23,13 +23,10 @@
 
 
 
-
-![PHP](https://img.shields.io/badge/PHP-333333?style=flat&logo=PHP)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-333333?style=flat&logo=postgresql)
-![LARAVEL](https://img.shields.io/badge/Laravel-333333?style=flat&logo=LARAVEL)
+![NODEJS](https://img.shields.io/badge/NodeJS-333333?style=flat&logo=NODEJS)
 ![REACT](https://img.shields.io/badge/react-333333?style=flat&logo=REACT)
 
 
@@ -82,5 +79,5 @@
 
 
 
-[![Linkedin: walisson sousa](https://img.shields.io/badge/-walisson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/walisson-sousa-901882228/)
-[![GitHub SEU NOME]( https://img.shields.io/github/followers/walissonssousa?label=follow&style=social)](https://github.com/walissonssousa)
+[![Linkedin: Luca Maia](https://img.shields.io/badge/-walisson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/luca-maia-6a06581a9/)
+[![GitHub SEU NOME]( https://img.shields.io/github/followers/walissonssousa?label=follow&style=social)](https://github.com/LucaMaia)
