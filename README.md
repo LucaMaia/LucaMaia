@@ -59,7 +59,7 @@
 
 
 <a href="https://github.com/LucaMaia">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucaMaia&theme=dracula&show_icons=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=LucaMaia&theme=dracula&show_icons=true" />
 </a>
 
 
