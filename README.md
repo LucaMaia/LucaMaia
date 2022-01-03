@@ -1,7 +1,3 @@
-### Hi there 👋
-![](https://komarev.com/ghpvc/?username=walissonssousa&color=006bed)
-
-
 
 <h3> :man: &nbsp;Meu nome e Luca,
 </h3>
