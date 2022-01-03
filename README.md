@@ -77,5 +77,5 @@
 
 
 
-[![Linkedin:Luca Maia](https://img.shields.io/badge/-Luca Maia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/luca-maia-6a06581a9/)
+[![Linkedin:Luca Maia](https://img.shields.io/badge/-LM-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/luca-maia-6a06581a9/)
 [![GitHub SEU NOME]( https://img.shields.io/github/followers/walissonssousa?label=follow&style=social)](https://github.com/LucaMaia)
