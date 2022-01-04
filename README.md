@@ -24,6 +24,7 @@
 ![NODEJS](https://img.shields.io/badge/NodeJS-333333?style=flat&logo=NODEJS)
 ![JAVASCRIPT](https://img.shields.io/badge/Javascript-333333?style=flat&logo=JAVASCRIPT)
 ![REACT](https://img.shields.io/badge/react-333333?style=flat&logo=REACT)
+![PYTHON](https://img.shields.io/badge/python-333333?style=flat&logo=PYTHON)
 
 
 
