@@ -4,9 +4,9 @@
 
 
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software , focado em JavaScrypt e Python.
 - 🎓 &nbsp; Estudando **Análise e Desenvolvimento de Sistemas ** na <a href="https://estacio.br/">ESTÁCIO
-- 💼 &nbsp; Trabalhando como **ESTAGIÁRIO /ARQUITETURA DE SOFTWARE** no <a href="https://www.gov.br/mec/pt-br">MINISTÉRIO DA EDUCAÇÃO</a>
+- 💼 &nbsp; Trabalhando como **Estágiario/ARQUITETURA DE SOFTWARE** no <a href="https://www.gov.br/mec/pt-br">MINISTÉRIO DA EDUCAÇÃO</a>
 - 🌱 &nbsp; Aprendendo mais sobre **JavaScript ,React JS ,Node JS**
 
 
