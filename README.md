@@ -7,7 +7,7 @@
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software. Focado em JavaScrypt.
 - 🎓 &nbsp; Formado em **Análise e Desenvolvimento de Sistemas ** na <a href="https://estacio.br/">ESTÁCIO
 - 💼 &nbsp; Trabalhando como **Analista de desenvolvimento Júnior** no <a href="https://www.gov.br/mec/pt-br">BBTS - Banco do Brasil Tecnologia e serviços</a>
-- 🌱 &nbsp; Aprendendo mais sobre **JavaScript ,React JS ,Node JS**
+- 🌱 &nbsp; Aprendendo mais sobre **JavaScript ,ReactJS ,NodeJS**
 
 
 
